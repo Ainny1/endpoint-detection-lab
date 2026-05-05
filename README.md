@@ -45,8 +45,7 @@ powershell
 ## 📸 Screenshots
 
 ### Failed Login Detection
-<img width="800" height="450" alt="IMG_9717" src="https://github.com/user-attachments/assets/f34dade6-f872-4d85-b39f-7bacdbb6ed6f" />
-
+LUploading_IMG 9716.png-10)
 
 ### PowerShell Activity Monitoring
 ![PowerShell](powershell-activity.png)
