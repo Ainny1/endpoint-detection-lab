@@ -1,5 +1,3 @@
-<img width="800" height="450" alt="IMG_9716" src="https://github.com/user-attachments/assets/02b9aa55-3aa8-488a-a581-273350f45432" />
-<img width="800" height="450" alt="IMG_9716" src="https://github.com/user-attachments/assets/5974c89a-07e2-45e6-8dc1-821c12da933c" />
 # 🔐 Endpoint Threat Detection & Response Lab
 
 ## 📌 Overview
