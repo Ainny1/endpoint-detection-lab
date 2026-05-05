@@ -44,8 +44,6 @@ powershell
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Failed Login Detection
 ![Failed Logins](failed-logins.png)
 
