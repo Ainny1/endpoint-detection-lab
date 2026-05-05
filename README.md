@@ -45,7 +45,8 @@ powershell
 ## 📸 Screenshots
 
 ### Failed Login Detection
-![Failed Logins](failed-logins.png)
+<img width="800" height="450" alt="IMG_9717" src="https://github.com/user-attachments/assets/f34dade6-f872-4d85-b39f-7bacdbb6ed6f" />
+
 
 ### PowerShell Activity Monitoring
 ![PowerShell](powershell-activity.png)
