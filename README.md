@@ -43,7 +43,13 @@ powershell
 - Detection Engineering  
 
 ## 📸 Screenshots
-(Will be added after lab setup)
+## 📸 Screenshots
+
+### Failed Login Detection
+![Failed Logins](https://github.com/user-attachments/assets/21b4b0ed-5752-4c63-bb47-d8b8bfe977fd)
+
+### PowerShell Activity Monitoring
+![PowerShell](https://github.com/user-attachments/assets/011e924e-7aca-455c-ab74-2ef9d3eb52b3)
 
 ## 📈 Outcome
 This lab demonstrates hands-on experience with SIEM tools, endpoint monitoring, and detection workflows aligned with enterprise tools like CrowdStrike Falcon.
