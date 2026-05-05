@@ -1,3 +1,5 @@
+<img width="800" height="450" alt="IMG_9716" src="https://github.com/user-attachments/assets/02b9aa55-3aa8-488a-a581-273350f45432" />
+<img width="800" height="450" alt="IMG_9716" src="https://github.com/user-attachments/assets/5974c89a-07e2-45e6-8dc1-821c12da933c" />
 # 🔐 Endpoint Threat Detection & Response Lab
 
 ## 📌 Overview
@@ -44,11 +46,13 @@ powershell
 
 ## 📸 Screenshots
 
-### Failed Login Detection
-![Failed Logins](failed-logins.png)
+### Failed Login Detection 
+<img width="800" height="450" alt="IMG_9716" src="https://github.com/user-attachments/assets/e733ef70-f861-43ba-9277-be22d077f05a" />
+
 
 ### PowerShell Activity Monitoring
-![PowerShell](powershell-activity.png)
+<img width="800" height="450" alt="IMG_9717" src="https://github.com/user-attachments/assets/84dd66eb-be5f-4566-beb6-9c599ec2b752" />
+
 
 ## 📈 Outcome
 This lab demonstrates hands-on experience with SIEM tools, endpoint monitoring, and detection workflows aligned with enterprise tools like CrowdStrike Falcon.
