@@ -54,3 +54,9 @@ powershell
 
 ## 📈 Outcome
 This lab demonstrates hands-on experience with SIEM tools, endpoint monitoring, and detection workflows aligned with enterprise tools like CrowdStrike Falcon.
+
+## 📚 Detection Hunting & SOC Triage Guide
+
+For additional Splunk SPL examples, lab validation steps, and an investigation runbook, see [Detection Hunts and Triage](docs/detection-hunts-and-triage.md).
+
+*These examples are for authorized lab testing and require validation against your own Splunk data.*
